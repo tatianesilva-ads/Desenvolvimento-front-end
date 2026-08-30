@@ -38,3 +38,5 @@ O layout foi projetado seguindo práticas de design responsivo para garantir uma
     padding: 24px 16px;
   }
 }
+
+![alt text](image.png)
