@@ -37,9 +37,8 @@ O layout foi projetado seguindo práticas de design responsivo para garantir uma
     width: 90%;
     padding: 24px 16px;
   }
-}
+} ```
 
-HTML
 ## 📸 Demonstração
 
 <img src="assets/preview_meucartao.PNG" alt="Demonstração do Projeto" width="400">
