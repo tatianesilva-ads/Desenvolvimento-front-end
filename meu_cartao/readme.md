@@ -39,4 +39,7 @@ O layout foi projetado seguindo práticas de design responsivo para garantir uma
   }
 }
 
-![alt text](image.png)
+HTML
+## 📸 Demonstração
+
+<img src="assets/preview_meucartao.png" alt="Demonstração do Projeto" width="400">
