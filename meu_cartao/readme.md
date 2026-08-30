@@ -9,7 +9,7 @@ Um mini projeto responsivo desenvolvido como parte da disciplina de **Desenvolvi
 O projeto consiste em um cartão estilizado e centralizado na tela, contendo foto de perfil, descrição sobre mim, área de atuação e links diretos para minhas principais redes e formas de contato:
 
 * **LinkedIn:** [tatiane-silva-data](https://www.linkedin.com/in/tatiane-silva-data)
-* **GitHub:** [tatianesilva](https://github.com/tatianesilva)
+* **GitHub:** [tatianesilva-ads](https://github.com/tatianesilva)
 * **E-mail:** `tatianegsilva.ps@gmail.com`
 
 ---
