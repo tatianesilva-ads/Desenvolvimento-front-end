@@ -10,11 +10,11 @@ body {
     align-items: center;
     justify-content: center;
     font-family: "Segoe UI", sans-serif;
-    background: linear-gradient(30deg, #520675 45%, #0e50b4 70%);
+    background: linear-gradient(30deg, #270338 45%, #041a3b 70%);
 }
 
 .card {
-    background: #fff;
+    background: #fff; 
     width: 320px;
     padding: 32px 24px;
     border-radius: 20px;
@@ -59,7 +59,7 @@ h1 {
 .links a{
     display: block;
     text-decoration: none;
-    background: linear-gradient(30deg, #c26ceb 45%, #6c9be2 70%);
+    background: linear-gradient(30deg, #e0bdf0 45%, #a6bfe6 70%);
     color: #fff;
     padding: 10px 16px;
     border-radius: 15px;
