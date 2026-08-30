@@ -59,10 +59,11 @@ h1 {
 .links a{
     display: block;
     text-decoration: none;
-    background: linear-gradient(30deg, #e0bdf0 45%, #a6bfe6 70%);
+    background: linear-gradient(30deg, #e0c0f0 45%, #b7ccee 70%);
     color: #fff;
     padding: 10px 16px;
     border-radius: 15px;
+    border: 2px solid #520675;
     font-weight: 600;
     font-size: 0.3rem;
     transition: transform 0.2s ease, background 0.2s ease;
