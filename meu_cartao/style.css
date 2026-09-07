@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     font-family: "Segoe UI", sans-serif;
-    background: linear-gradient(30deg, #270338 45%, #041a3b 70%);
+    background: linear-gradient(40deg, #096fb3 30%, #041a3b 70%);
 }
 
 .card {
@@ -28,12 +28,12 @@ body {
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 16px;
-    border: 3px solid #520675;
+    border: 3px solid #041a3b;
 }
 
 h1 {
     font-size: 1.4rem;
-    color: #440141;
+    color: #041a3b;
 }
 
 .cargo {
@@ -59,11 +59,11 @@ h1 {
 .links a{
     display: block;
     text-decoration: none;
-    background: linear-gradient(30deg, #e0c0f0 45%, #b7ccee 70%);
+    background: #bce4f7;
     color: #fff;
     padding: 10px 16px;
     border-radius: 15px;
-    border: 2px solid #520675;
+    border: 2px solid #041a3b;
     font-weight: 600;
     font-size: 0.3rem;
     transition: transform 0.2s ease, background 0.2s ease;
