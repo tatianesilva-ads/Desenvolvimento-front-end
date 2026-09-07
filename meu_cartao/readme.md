@@ -37,8 +37,9 @@ O layout foi projetado seguindo práticas de design responsivo para garantir uma
     width: 90%;
     padding: 24px 16px;
   }
-} ```
+}
+```
+<img width="498" height="882" alt="Image" src="https://github.com/user-attachments/assets/229cf06a-af5e-4269-977f-0e6f680042d7" />
 
-## 📸 Demonstração
 
-<img src="assets/preview_meucartao.PNG" alt="Demonstração do Projeto" width="400">
+
