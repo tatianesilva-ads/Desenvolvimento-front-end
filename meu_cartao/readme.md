@@ -39,7 +39,7 @@ O layout foi projetado seguindo práticas de design responsivo para garantir uma
   }
 }
 ```
-<img width="498" height="882" alt="Image" src="https://github.com/user-attachments/assets/229cf06a-af5e-4269-977f-0e6f680042d7" />
+<img width="509" height="888" alt="Image" src="https://github.com/user-attachments/assets/06ba9ea3-c74d-4249-98d5-415ff7c0c137" />
 
 
 
